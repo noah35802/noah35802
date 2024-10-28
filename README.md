@@ -1,6 +1,6 @@
-# Hi there 👋
+![CoffeeCoffeeCupGIF](https://github.com/user-attachments/assets/59e53280-c484-4532-88be-6fe052593d38)# Hi there 👋
 ## 💫 About Me:
-🔭 I’m currently working on myself<br>🤝 I’m looking for help with a new programming language<br>🌱 I’m currently learning Data Structures<br>💬 Ask me about anything<br>⚡ No Hugs No Kisses, Only Bugs and Fixes
+🔭 I’m currently working on myself<br>🤝 I’m looking for help with a new programming language<br>🌱 I’m currently learning Data Structures<br>💬 Ask me about anything<br>⚡ No Hugs No Kisses, Only Bugs and Fixes<br> 🍵Coffee is my DRS
 
 
 ## 🌐 Socials:
