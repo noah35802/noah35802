@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhlbWlucWRmZzV2b3VjZmtvcWN1bWtteDl4Mzd4MWFqcmJkZ29yNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yKQTrPStO2CcgNWxuK/giphy.gif" align="center" style="width: 100%" />
-</div>  
 # Hi there 👋
 ## 💫 About Me:
 🔭 I’m currently working on myself<br>🤝 I’m looking for help with a new programming language<br>🌱 I’m currently learning Data Structures<br>💬 Ask me about anything<br>⚡ No Hugs No Kisses, Only Bugs and Fixes<br> 🍵 Coffee is my DRS
