@@ -2,7 +2,7 @@
 
 # Hi there 👋
 ## 💫 About Me:
-🔭 I’m currently working on myself<br>🤝 I’m looking for help with a new programming language<br>🌱 I’m currently learning Data Structures<br>💬 Ask me about anything<br>⚡ No Hugs No Kisses, Only Bugs and Fixes<br> 🍵 Coffee is my DRS
+🔭 I’m currently working on myself<br>🤝 I’m looking for help with a new programming language<br>🌱 I’m currently learning Data Structures<br>💬 Ask me about anything<brs<br> 🍵 Coffee is my DRS
 
 
 ## 🌐 Socials:
