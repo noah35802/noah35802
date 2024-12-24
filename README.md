@@ -1,6 +1,5 @@
-<h3 align="center">A passionate coder from India</h3>
-
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Ayush Raj</h1>
+<h3 align="center">A passionate developer from India</h3>
 ## 💫 About Me:
 🔭 I’m currently working on myself<br>🤝 I’m looking for help with a new programming language<br>🌱 I’m currently learning Data Structures<br>💬 Ask me about anything<brs<br> 🍵 Coffee is my DRS
 
