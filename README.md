@@ -31,6 +31,15 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=noah35802&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🌌 My GitHub Streak
+
+Elevate your coding streaks with this minimal yet captivating streak calendar, tailored for dark themes.
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=noah35802&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Calendar"/>
+
+</div>
 
 <div align="center">
 
