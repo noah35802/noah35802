@@ -31,6 +31,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=noah35802&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=noah35802&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
 ---
 
 
