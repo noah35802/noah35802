@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 ## 💫 About Me:
-🔭 I’m currently working on myself<br>🤝 I’m looking for help with a new programming language<br>🌱 I’m currently learning Data Structures<br>💬 Ask me about anything<brs<br> 🍵 Coffee is my DRS
+🔭 I’m currently working on my new website<br>🤝 I’m looking for help with a bot<br>🌱 I’m currently learning Data Structures<br>💬 Ask me about anything<br> 🍵 Coffee is my DRS
 
 ## Connect with me:
 <p align="left">
