@@ -40,10 +40,7 @@
 
 <div align="center">
 
-💻 Made with 💖 for passionate developers
+💻 Made with 💖 by passionate developer
 
 </div>
 ---
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
