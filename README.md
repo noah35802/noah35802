@@ -22,11 +22,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=noah35802&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noah35802&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center"> 
-  <h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/noah35802/noah35802/main/output/github-contribution-grid-snake.svg" />
-</div> 
-
+## 🐍 Contributions 🐍
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noah35802/noah35802/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noah35802/noah35802/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/noah35802/noah35802/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=noah35802&theme=radical&no-frame=false&no-bg=false&margin-w=4)
