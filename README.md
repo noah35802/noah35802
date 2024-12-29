@@ -40,7 +40,7 @@
 
 <div align="center">
 
-💻 Made with 💖 by passionate developer
+💻 Made with 💖 by a passionate developer
 
 </div>
 ---
